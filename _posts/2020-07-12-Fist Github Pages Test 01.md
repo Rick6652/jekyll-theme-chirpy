@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flake it till you make it
+title: this is title
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
@@ -8,8 +8,8 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
-## 雨巷
-**【作者】戴望舒 【朝代】现代**
+## <center>雨巷</center>
+```shell
 撑着油纸伞，独自
 彷徨在悠长、悠长
 又寂寥的雨巷
@@ -52,5 +52,9 @@ tags: [books, test]
 我希望飘过
 一个丁香一样的
 结着愁怨的姑娘
+```
 
-==============2021-07-12==============
+
+
+<center>==============2021-07-12==============
+
