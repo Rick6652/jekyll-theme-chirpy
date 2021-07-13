@@ -42,12 +42,12 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "rick0502@outlook.com"
+#  facebook: deanattali
+  github: rick6652
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -73,6 +73,8 @@ rss-description: This website is a virtual proof that I'm awesome
 # --- General options --- #
 
 # Select which social network share links to show in posts
+# 暂时未找到分享按钮在哪里
+
 share-links-active:
   twitter: false
   facebook: false
@@ -81,18 +83,21 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+# 页脚位置
+url-pretty: "MyWebsite.Test"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
+# 是否需要在首页显示文章摘要
 feed_show_excerpt: true
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: true
 
 # Add a search button to the navbar
+# 导航栏添加搜索按钮 
 post_search: true
 
 # The keywords to associate with your website, for SEO purposes
@@ -102,16 +107,35 @@ post_search: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
+# navbar-col: "#EAEAEA"
+# navbar-text-col: "#404040"
+# navbar-border-col: "#DDDDDD"
+# page-col: "#FFFFFF"
+# text-col: "#404040"
+# link-col: "#008AFF"
+# hover-col: "#0085A1"
+# footer-col: "#EAEAEA"
+# footer-text-col: "#777777"
+# footer-link-col: "#404040"
+
+# 导航栏背景颜色
+navbar-col: "#1E90FF"
+# 导航栏字体颜色
+navbar-text-col: "#FFFAF0"
+# 导航栏边框颜色
+navbar-border-col: "#8B0000"
+# 网页中间部分背景颜色
+page-col: "#F8F8FF"
+# 字体颜色
+text-col: "#000000"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#1E90FF"
+# 页脚字体颜色
+footer-text-col: "#FFFAF0"
+# 页脚图标底色
+footer-link-col: "#008000"
+
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
